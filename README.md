@@ -1,6 +1,6 @@
 ## Week 5 – Online Business Card
 
-This Week 5 HTML & CSS coursework project is an online business card designed with a clean style inspired by Spotify’s signature brand colors.
+This Week 5 HTML & CSS coursework project is an online business card designed with a clean style inspired by Apple’s signature brand colors.
 
 ## Essential Shortcut Keys
 
